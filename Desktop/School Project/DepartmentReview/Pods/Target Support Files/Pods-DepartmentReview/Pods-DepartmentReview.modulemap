@@ -1,0 +1,6 @@
+framework module Pods_DepartmentReview {
+  umbrella header "Pods-DepartmentReview-umbrella.h"
+
+  export *
+  module * { export * }
+}
